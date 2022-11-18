@@ -16,6 +16,9 @@ public class Placeimg : MonoBehaviour
 
 
     private readonly Dictionary<string, GameObject> _instantiatedPrefabs = new Dictionary<string, GameObject>();
+
+    //These are some other code
+    
     //  foreach(var trackedImage in eventArgs.added){
     // Get the name of the reference image
     //   var imageName = trackedImage.referenceImage.name;
